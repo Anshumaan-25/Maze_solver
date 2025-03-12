@@ -51,7 +51,7 @@ This project implements a maze-solving robot using an Arduino-based system with 
 2. Install the Arduino IDE.
 3. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/maze-solving-robot.git
+   git clone https://github.com/Anshumaan-25/Maze_solver.git
 4. Open the `.ino` file in Arduino IDE.
 5. Upload the code to your Arduino board.
 
